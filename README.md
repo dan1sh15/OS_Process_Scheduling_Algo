@@ -9,3 +9,5 @@
 7. Priority Non Preemptive
 8. Prioirty Preempive
 9. Round Robin
+
+### to execute the program use `g++ -o "filename" filename.cpp`
